@@ -17,7 +17,7 @@ This program creates a locally hosted app that will attempt to classify the pred
 │  
 ├── experiemnts.ipynb                 <- Jupyter notebook full of experiments to find the optimal model
 │   
-
+```
 
 ## Project Details
 This project was part of MSiA (Master of Science in Analytics) at Northwestern for a class called Text Analytics. Some of the code used, espcially for the CNN model and api.py, was provided by the professor. The project idea, structure, experimentation, and pre-processing was done from scratch. 
